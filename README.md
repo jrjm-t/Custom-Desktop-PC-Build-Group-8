@@ -24,17 +24,17 @@ PCPartPicker Permalink: https://pcpartpicker.com/list/jWz8GJ
 ### Summary Table 
 | Component       | Model | Price (USD/Php) | Notes |
 |-----------------|-------|-----------------|-------|
-| CPU             | AMD Ryzen 7 7800X3D   | 20840 Php             | ...   |
-| CPU Cooler      | Thermalright Phantom Spirit 120 SE ARGB CPU Cooler   | 2095 Php             | ...   |
-| Motherboard     | Gigabyte B650M AORUS ELITE AX (mATX)   | 10750 Php             | ...   |
-| RAM             | G.Skill Trident Z5 Neo DDR5   | 9540 Php             | ...   |
-| Storage 1       | Crucial P310 M.2 1TB Gen4 NVMe (2)   | 7790 Php             | ...   |
-| Storage 2       | Crucial MX500 2TB SATA SSD   | 8540 Php             | ...   |
-| Graphics Card   | AMD Radeon™ RX 9060 XT 16GB GDDR6 Graphics Card   | 28600 Php             | ...   |
-| Power Supply    | Seasonic Focus GM-650   | 5190 Php             | ...   |
-| Case            | Lian Li PC-O11 Dynamic White ATX TG Mid Tower Case   | 8850 Php             | ...   |
-| Case Fans       | Thermalright TL-S12-S Silent 120mm PWM Hybrid ARGB Effect Case Fan (Black, White) (3-Pack)   | 1050 Php             | ...   |
-| **Total**       |       | **XXX USD/Php**     |       |
+| CPU             | AMD Ryzen 7 7800X3D   | 359.00 USD             | ...   |
+| CPU Cooler      | Thermalright Phantom Spirit 120 SE ARGB CPU Cooler   | 37.90 USD             | ...   |
+| Motherboard     | Gigabyte B650M AORUS ELITE AX (mATX)   | 179.99 USD             | ...   |
+| RAM             | G.Skill Trident Z5 Neo DDR5   | 124.99 USD             | ...   |
+| Storage 1       | Crucial P310 M.2 1TB Gen4 NVMe (2)   | 218.70 USD             | ...   |
+| Storage 2       | Crucial MX500 2TB SATA SSD * 2   | 139.98 USD             | ...   |
+| Graphics Card   | AMD Radeon™ RX 9060 XT 16GB GDDR6 Graphics Card   | 379.99 USD             | ...   |
+| Power Supply    | Seasonic Focus GM-650   | 89.23 USD             | ...   |
+| Case            | Lian Li PC-O11 Dynamic White ATX TG Mid Tower Case   | 229.99 USD             | ...   |
+| Case Fans       | Thermalright TL-S12-S Silent 120mm PWM Hybrid ARGB Effect Case Fan (Black, White) (3-Pack)   | 18.05 USD             | ...   |
+| **Total**       |       | **1777.82 USD**     |       |
 
 ---
 
