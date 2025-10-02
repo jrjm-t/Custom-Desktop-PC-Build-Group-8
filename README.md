@@ -45,9 +45,9 @@ Google spreadsheet link: _________
 ### Local Build Table
 | Component       | Model | Vendor & Link      | Price (Php) | Compatibility Notes                  |
 |-----------------|-------|--------------------|-------------|--------------------------------------|
-| CPU             | ...   | [PC Express](link) | ...         | Socket LGA1700 compatible with B760M |
-| CPU Cooler      | ...   | [VillMan](link)    | ...         | Fits case clearance                  |
-| Motherboard     | ...   | [PC Express](link) | ...         | Supports DDR5 RAM                    |
+| CPU             | ...   | [Dynaquest](https://dynaquestpc.com/products/amd-ryzen-7-7800x3d-4-2-5-0ghz-8-core-16threads-processor-tray) | ...         | Socket LGA1700 compatible with B760M |
+| CPU Cooler      | ...   | [DataBlitz](https://ecommerce.datablitz.com.ph/products/thermalright-phantom-spirit-120-se-argb-cpu-cooler) | ...         | Fits case clearance                  |
+| Motherboard     | ...   | [DataBlitz](https://ecommerce.datablitz.com.ph/products/gigabyte-b650m-aorus-elite-ax-gaming-motherboard) | ...         | Supports DDR5 RAM                    |
 | RAM             | ...   | [PC Express](link) | ...         | DDR5-5200 CL40, 2x8GB                |
 | Storage 1 (SSD) | ...   | [PC Express](link) | ...         | NVMe M.2 slot supported              |
 | Storage 2 (HDD) | ...   | [PVillMan](link)   | ...         | SATA port supported                  |
@@ -78,7 +78,7 @@ Example:
 - **Budget Limit**: ₱105,000
 - **Final Total**: ₱103,245
 - ✅ Within budget
-- Micro ATX motherboard reduces motherboard cost but reduces space for expansion cards
+- Micro ATX motherboard reduces cost but gives less space for expansion cards
 
 ---
 
