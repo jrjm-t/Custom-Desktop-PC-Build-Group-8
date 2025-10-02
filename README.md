@@ -75,10 +75,10 @@ Example:
 ---
 
 ## 5. Budget Analysis
-- **Budget Limit**: ₱XX,000  
-- **Final Total**: ₱XX,000  
-- ✅ Within budget / ❌ Over budget  
-- Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket cooler, etc.).
+- **Budget Limit**: ₱105,000
+- **Final Total**: ₱103,245
+- ✅ Within budget
+- Micro ATX motherboard reduces motherboard cost but reduces space for expansion cards
 
 ---
 
@@ -93,7 +93,18 @@ Reflections on:
 - Your video link here  
 
 ## 8. References
-- Vendor links (PCX, VillMan, etc.)  
-- PCPartPicker build link  
-- Any technical documentation consulted  
+- PCPartPicker build link
+
+- https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof
+- https://pcpartpicker.com/product/MzMMnQ/thermalright-phantom-spirit-120-se-argb-6617-cfm-cpu-cooler-ps120se-argb
+- https://pcpartpicker.com/product/fFzhP6/gigabyte-b650m-aorus-elite-ax-micro-atx-am5-motherboard-b650m-aorus-elite-ax
+- https://pcpartpicker.com/product/CXKKHx/gskill-trident-z5-neo-rgb-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-f5-6000j3038f16gx2-tz5nr
+- https://pcpartpicker.com/product/nF8j4D/crucial-mx500-2tb-25-solid-state-drive-ct2000mx500ssd1
+- https://pcpartpicker.com/product/X46NnQ/crucial-p310-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-ct1000p310ssd8
+- https://pcpartpicker.com/product/w2WmP6/sapphire-pulse-radeon-rx-9060-xt-16-gb-video-card-11350-03-20g
+- https://pcpartpicker.com/product/jwDQzy/lian-li-o11-dynamic-evo-xl-atx-full-tower-case-o11dexl-x
+- https://pcpartpicker.com/product/qbK2FT/seasonic-focus-650-w-80-gold-certified-semi-modular-atx-power-supply-focus-gm-650
+- https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7800x3d.html
+- https://www.gigabyte.com/Motherboard/B650M-AORUS-ELITE-AX-rev-13
+- https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-9060-xt-16g-gddr6
 
