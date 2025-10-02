@@ -55,7 +55,7 @@ Google spreadsheet link: _________
 | PSU             | Seasonic Focus GM-650   | [DynaQuest](https://dynaquestpc.com/products/seasonic-focus-gold-650fm-650watts-80-gold-semi-modular)   | 5190         | 650W, 80+ Bronze                     |
 | Case            | Lian Li PC-O11 Dynamic White ATX TG Mid Tower Case   | [DynaQuest](https://dynaquestpc.com/products/lian-li-pc-o11-dynamic-white-secc-atx-tg-mid-tower-case)    | 8850         | ATX Mid-Tower                        |
 | Case Fans       | Thermalright TL-S12-S Silent 120mm PWM Hybrid ARGB Effect Case Fan (Black, White) (3-Pack)   | [DataBlitz](https://ecommerce.datablitz.com.ph/products/thermalright-tl-s12-s-silent-120mm-pwm-hybrid-argb-effect-case-fan-black-white-3-pack)    | 1050         | 120mm, 3-pin                         |
-| **Total**       |       |                    | **XXX Php** | Within budget                        |
+| **Total**       |       |                    | **103245 Php** | Within budget                        |
 
 ---
 
