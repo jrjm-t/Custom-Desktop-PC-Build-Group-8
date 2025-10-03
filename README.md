@@ -88,7 +88,7 @@ Over the course of this project, the group learned a lot about PC part compatibi
 
 ---
 ## 7. Video pitch
-- Your video link here  
+- [Video pitch](https://l.messenger.com/l.php?u=https%3A%2F%2Fyoutu.be%2Ff3TYUxIRfqs&h=AT3UknskXGesPG3P_0n9uXy1KO2J45lncxdd62s9kr367kUErTt4QU7jE39aF9BXdnhPx0Xm_qXOUZ-U8G5zun1bC1gRgyTLTKSy85VRRSLL11yVTc2eycnlImkRXHnntJuzqQ) 
 
 ## 8. References
 - [PCPartPicker build link](https://pcpartpicker.com/list/jWz8GJ)
