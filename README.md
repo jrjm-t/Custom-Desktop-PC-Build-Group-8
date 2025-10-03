@@ -61,15 +61,15 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1Z9tXJOtWLd7xBpo
 ## 4. Compatibility Justification
 For each part, explain compatibility and choices.  
 Example:  
-- **CPU + Motherboard**: Baseline Computer Component; Compatible with Motherboard AM5 socket; thermal design power within capacity of CPU cooler; Supports memory controller with DDR5-5000 Motherboard capability and Memory requirement; PCIe Gen5 lanes for Graphics Card (ready for future upgrades) with back-ward compatiblity to Gen4 devices such as with the selected GPU and memory modules.
-- **CPU Cooler**: 154 mm fits within alloted Case CPU cooler clearance of 155mm; Dual-tower heatsink does not obstruct memory modules (DDR5 height complaint), thermal dissipation capacity sufficient for suggested CPU Thermal Design Power
-- **RAM**: Form factor compatible with motherboard's two out of four 288-pin DIMM slots; speed compatible with motherboard's memory speed (DDR5-6000); size of each module compatible w/ DIMM capacity of each socket (32 GiB per socket); Fits 32/192 GB of the Motherboard Memory Capacity.  
+- **CPU + Motherboard**: CPU is able to possess a larger L3 cache which gives it reduced memory latency and ultimately higher FPS count for gaming. Though it is ideal for gaming, it is not as effective for multi-threaded content creation like 3D rendering in blender, or other tasks that could be done more effectively with 16-core CPUs. Furthermore, the added 3D V-Cache contributes to an increase in the price, and as a CPU that requires an AM5 board with DDR5, its overall platform cost will be higher compared to older AM4 - DDR4 builds. However, despite its steep price of 20,840 pesos as listed on DynaQuest, we believe that this choice of CPU is ideal for meeting our target specifications.
+- **CPU Cooler**: 154 mm fits within alloted Case CPU cooler clearance of 155mm, the dual-tower heatsink does not obstruct memory modules (DDR5 height complaint) and thermal dissipation capacity is sufficient for suggested CPU Thermal Design Power.
+- **RAM**: Form factor compatible with motherboard's two out of four 288-pin DIMM slots, speed compatible with motherboard's memory speed (DDR5-6000), size of each module compatible w/ DIMM capacity of each socket (32 GiB per socket); Fits 32/192 GB of the Motherboard Memory Capacity.
 - **GPU**: Compatible with the Motherboard's PCIe 4.0x16 slot; 300mm graphics card length fits within 420 mm case clearance; 2.5-slot card thickness supported by sufficient expansion slot layout; power consumption within suggested PSU capacity through PSU provided 8-pin power connectors.
 - **Storage 1 (NVME SSD)**: Compatible with the Motherboard's two out of two M.2 2280 slots (5th Gen: 2580/25110 M-key and 4th Gen:2280/22110 M-key);
 - **Storage 2 (SATA SSD)**: Compatible with motherboard’s one out of four SATA (Gb/s) ports; 2.5" drive form factor supported by case internal 2.5" drive bays
-- **Power Supply**: Fits in case (PSU mount supports size ATX)
+- **Power Supply**: The wattage of this PSU (650 W) is adequate based on PCPartPicker's estimated 468W for our build. This PSU also has an 80+ Gold Efficiency. Adheres to AMD Documentation requiring Minimum 450W PSU for GPU;
 - **Case**: Supports micro ATX motherboard form factor; drive bays compatible with Storage 2 (2.5"), video card length (300 mm) fits in case (420 mm max), CPU cooler height (154 mm) fits in case (155 mm max), supports size of PSU (ATX)
-- **Case Fans**: Fan size compatible with case fan mounts (3x120 mm fans)
+- **Case Fans**: The 3 120mm fans can be placed on the top side, and bottom of the case and provides silent cooling at 23 db. Fan size is compatible with case fan mounts (3x120 mm fans).
 
 ---
 
