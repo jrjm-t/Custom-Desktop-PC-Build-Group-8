@@ -61,7 +61,7 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1Z9tXJOtWLd7xBpo
 ## 4. Compatibility Justification
 For each part, explain compatibility and choices.  
 Example:  
-- **CPU + Motherboard**: Baseline Computer Component; Compatible with Motherboard AM5 socket; thermal design power within capacity of CPU cooler; Supports memory controller with DDR5-5000 Motherboard capability and Memeory requirement; PCIe Gen5 lanes for Graphics Card (ready for future upgrades) with back-ward compatiblity to Gen4 devices such as with the selected GPU and memory modules.
+- **CPU + Motherboard**: Baseline Computer Component; Compatible with Motherboard AM5 socket; thermal design power within capacity of CPU cooler; Supports memory controller with DDR5-5000 Motherboard capability and Memory requirement; PCIe Gen5 lanes for Graphics Card (ready for future upgrades) with back-ward compatiblity to Gen4 devices such as with the selected GPU and memory modules.
 - **CPU Cooler**: 154 mm fits within alloted Case CPU cooler clearance of 155mm; Dual-tower heatsink does not obstruct memory modules (DDR5 height complaint), thermal dissipation capacity sufficient for suggested CPU Thermal Design Power
 - **RAM**: Form factor compatible with motherboard's two out of four 288-pin DIMM slots; speed compatible with motherboard's memory speed (DDR5-6000); size of each module compatible w/ DIMM capacity of each socket (32 GiB per socket); Fits 32/192 GB of the Motherboard Memory Capacity.  
 - **GPU**: Compatible with the Motherboard's PCIe 4.0x16 slot; 300mm graphics card length fits within 420 mm case clearance; 2.5-slot card thickness supported by sufficient expansion slot layout; power consumption within suggested PSU capacity through PSU provided 8-pin power connectors.
@@ -74,7 +74,7 @@ Example:
 ---
 
 ## 5. Budget Analysis
-- **Budget Limit**: ₱105,000
+- **Budget Limit**: ₱100,000 to ₱105,000
 - **Final Total**: ₱103,245
 - ✅ Within budget
 - Micro ATX motherboard reduces cost but gives less space for expansion cards
@@ -82,7 +82,7 @@ Example:
 ---
 
 ## 6. Conclusion & Learnings
-During the process of searching for components, the group mostly struggled with ascertaining which components were truly the best, as well as determining whether certain components they found were really worth their price. For instance, some storages seem to have good space, but turn out to cost much more per gigabye compared to others of similar quality. Another interesting observation noted was that the price of the components listed in PCPartPicker tended to be cheaper than their locally available equivalents from local vendors, however given that the budget of this build was relatively high, this did not pose too much of a challenge to the group, though efforts to direct most of the budget towards the GPU and CPU were made.
+During the process of searching for components, the group mostly struggled with ascertaining which components were truly the best, as well as determining whether certain components they found were really worth their price. For instance, some storages seem to have good space, but turn out to cost much more per gigabye compared to others of similar quality. Another interesting observation noted was that the price of the components listed in PCPartPicker tended to be cheaper than their available equivalents from local vendors, however given that the budget of this build was relatively high, this did not pose too much of a challenge to the group, though efforts to direct most of the budget towards the GPU and CPU were made.
 
 Over the course of this project, the group learned a lot about PC part compatibility, including the need to ensure that DDR generations of the motherboard and CPU are compatible, the tradeoff between the cost of the motherboard with its form factor, the need to ensure that the power supply can give sufficient wattage for the whole build, and even the tradeoff between fan cooling effectiveness with its noise level.
 
