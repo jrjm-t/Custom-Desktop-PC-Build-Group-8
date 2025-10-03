@@ -12,8 +12,7 @@
 ---
 
 ## 1. Introduction
-Briefly describe your project build (1–2 paragraphs).
-Our project build is a high-end pc constructed from some of the most powerful components available. Though incredibly expensive, the components of this build allow it to run even the most demanding of video games at the their highest performance and graphics, with an overall budget constraint of at least PhP 100,000 with +5% flexibility.
+Our project build is a high-end pc constructed from some of the most powerful components available on the market today. Though incredibly expensive, the components of this build allow it to run even the most demanding of video games at the their highest performance and graphics, with an overall budget constraint of at least PhP 100,000 with +5% flexibility.
 
 ---
 
