@@ -59,8 +59,7 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1Z9tXJOtWLd7xBpo
 ---
 
 ## 4. Compatibility Justification
-For each part, explain compatibility and choices.  
-Example:  
+
 - **CPU + Motherboard**: CPU is able to possess a larger L3 cache which gives it reduced memory latency and ultimately higher FPS count for gaming. Though it is ideal for gaming, it is not as effective for multi-threaded content creation like 3D rendering in blender, or other tasks that could be done more effectively with 16-core CPUs. Furthermore, the added 3D V-Cache contributes to an increase in the price, and as a CPU that requires an AM5 board with DDR5, its overall platform cost will be higher compared to older AM4 - DDR4 builds. However, despite its steep price of 20,840 pesos as listed on DynaQuest, we believe that this choice of CPU is ideal for meeting our target specifications.
 - **CPU Cooler**: 154 mm fits within alloted Case CPU cooler clearance of 155mm, the dual-tower heatsink does not obstruct memory modules (DDR5 height complaint) and thermal dissipation capacity is sufficient for suggested CPU Thermal Design Power.
 - **RAM**: Form factor compatible with motherboard's two out of four 288-pin DIMM slots, speed compatible with motherboard's memory speed (DDR5-6000), size of each module compatible w/ DIMM capacity of each socket (32 GiB per socket); Fits 32/192 GB of the Motherboard Memory Capacity.
