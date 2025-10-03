@@ -30,7 +30,7 @@ PCPartPicker Permalink: https://pcpartpicker.com/list/jWz8GJ
 | Storage 1       | Crucial P310 M.2 1TB Gen4 NVMe (2)   | 218.70 USD             | ...   |
 | Storage 2       | Crucial MX500 2TB SATA SSD * 2   | 139.98 USD             | ...   |
 | Graphics Card   | AMD Radeon™ RX 9060 XT 16GB GDDR6 Graphics Card   | 379.99 USD             | ...   |
-| Power Supply    | Seasonic Focus GM-650   | 89.23 USD             | price on PCPartPicker not given, price listed here is based from price pf locally available equivalent   |
+| Power Supply    | Seasonic Focus GM-650   | 89.23 USD             | price on PCPartPicker not given, price listed here is based from price of locally available equivalent   |
 | Case            | Lian Li PC-O11 Dynamic White ATX TG Mid Tower Case   | 229.99 USD             | ...   |
 | Case Fans       | Thermalright TL-S12-S Silent 120mm PWM Hybrid ARGB Effect Case Fan (Black, White) (3-Pack)   | 18.05 USD             | price on PCPartPicker not given, price listed here is based from price of locally available equivalent   |
 | **Total**       |       | **1777.82 USD**     |       |
