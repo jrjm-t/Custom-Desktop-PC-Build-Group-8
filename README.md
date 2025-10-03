@@ -30,9 +30,9 @@ PCPartPicker Permalink: https://pcpartpicker.com/list/jWz8GJ
 | Storage 1       | Crucial P310 M.2 1TB Gen4 NVMe (2)   | 218.70 USD             | ...   |
 | Storage 2       | Crucial MX500 2TB SATA SSD * 2   | 139.98 USD             | ...   |
 | Graphics Card   | AMD Radeon™ RX 9060 XT 16GB GDDR6 Graphics Card   | 379.99 USD             | ...   |
-| Power Supply    | Seasonic Focus GM-650   | 89.23 USD             | ...   |
+| Power Supply    | Seasonic Focus GM-650   | 89.23 USD             | price on PCPartPicker not given, price listed here is based from price pf locally available equivalent   |
 | Case            | Lian Li PC-O11 Dynamic White ATX TG Mid Tower Case   | 229.99 USD             | ...   |
-| Case Fans       | Thermalright TL-S12-S Silent 120mm PWM Hybrid ARGB Effect Case Fan (Black, White) (3-Pack)   | 18.05 USD             | ...   |
+| Case Fans       | Thermalright TL-S12-S Silent 120mm PWM Hybrid ARGB Effect Case Fan (Black, White) (3-Pack)   | 18.05 USD             | price on PCPartPicker not given, price listed here is based from price of locally available equivalent   |
 | **Total**       |       | **1777.82 USD**     |       |
 
 ---
@@ -82,10 +82,9 @@ Example:
 ---
 
 ## 6. Conclusion & Learnings
-Reflections on:
-- Price differences (international vs. Manila vendors)
-- Challenges in finding stock or cheaper equivalents
-- What the group learned about PC components and system design
+During the process of searching for components, the group mostly struggled with ascertaining which components were truly the best, as well as determining whether certain components they found were really worth their price. For instance, some storages seem to have good space, but turn out to cost much more per gigabye compared to others of similar quality. Another interesting observation noted was that the price of the components listed in PCPartPicker tended to be cheaper than their locally available equivalents from local vendors, however given that the budget of this build was relatively high, this did not pose too much of a challenge to the group, though efforts to direct most of the budget towards the GPU and CPU were made.
+
+Over the course of this project, the group learned a lot about PC part compatibility, including the need to ensure that DDR generations of the motherboard and CPU are compatible, the tradeoff between the cost of the motherboard with its form factor, the need to ensure that the power supply can give sufficient wattage for the whole build, and even the tradeoff between fan cooling effectiveness with its noise level.
 
 ---
 ## 7. Video pitch
